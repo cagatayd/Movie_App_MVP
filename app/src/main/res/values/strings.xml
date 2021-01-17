@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MovieDB_MVP</string>
+    <string name="title_top_rated">Top Rated</string>
+    <string name="title_up_coming">Up Coming</string>
+    <string name="title_now_playing">Now Playing</string>
+    <string name="vote_count_hint">Oy Sayısı : </string>
+    <string name="vote_average_hint">Oy Ortalaması : </string>
+    <string name="popularity">Popularity : </string>
+    <string name="language">Language : </string>
+    <string name="releasedate">Release Date : </string>
+    <string name="save_to_favorites_hint">Favorilere Kaydet</string>
+    <string name="added_to_favorite_list">Favori Listesine Eklendi...</string>
+</resources>
